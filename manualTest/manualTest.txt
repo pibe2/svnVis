@@ -1,0 +1,85 @@
+Reset the database by running resetDB.php in the 'classes' folder. This is to clear out the comments,
+so that the website looks close to that pictured in the provided png files.
+
+It should be noted that things could be different if we update the dataBase (to reflect a more recent
+version of the svn repository), but the functionality tested should be unchanged.
+
+Disclaimer: New implementation was added so there are additional 'view file' buttons attached
+to each revision of a file
+
+1) Go to 'http://localhost:63342/Assignment3.2/webView/pages/index.php'. WebPage should look like
+    more or less like 'test1.png'.
+
+2) Expand the second directory 'Assignment0_refactoring', it should look like 'test2.png', with folders
+    expanding out as expected.
+
+3) Expand out the first directory 'Assignment0' and click on the last file, 'yellowred_mushroom.png' (any
+    other file will do as just as well). Notice the information tables, including the size and commits
+    done on the file. This should look close to 'test3.png', assuming you picked the same file.
+
+4) type a comment in the (only) provided text area and submit it. The comment should pop up in a green bubble
+    below, as in 'test4.png'. Only the comment area, as opposed to the whole page, should reload when a
+    comment is submitted.
+5) type another comment in the same text area as before and submit it. Notice that it is now the new comment
+    at the top as in test5.png: more recent comment are displayed first.
+
+6) click the 'Reply' button of the top-most comment. A new text area should appear, as in test6.png.
+
+7) type a reply in the new text area, and submit the reply. The reply should appear below the first
+    comment but indented to the right, as in 'test7.png'.
+
+8) Type in a potential XSS-attack script into the general text area (the very top one). We use
+    '<script>alert("am i protected from cross-site-scripting/xss attacks")</script>' as out test case.
+    as can be seen in 'test8.png';
+
+9) Submit the attack comment and it should in fact not raise an alert. It should appear, exactly as we
+    typed it in, as the new top comment spot. See 'test9.png'
+
+10) We will now reply to the reply we submitted in step 7 with a multi-line comment. Like previously,
+    click the 'reply' button to show text area and type in any any multi line comment. See 'test10.png'.
+
+11) Submit the reply, and the comment should appear exactly as expected, with different lines appearing
+    where they should be (as opposed to appearing on one line). It should look something like 'test11.png'.
+
+12) Notice the navigation bar on top of the page. Now click 'view file' button in the nav bar and an I-frame
+    should appear displaying the file. For files that are not text or image files, clicking on the button
+    simply prompts a download of the file. Note that the I-frame appears without reloading the entire page.
+    Though the url bar will seem like its reloading, this is for the iframe showing the file contents itself,
+    not the whole webpage (an iframe is like a webpage that can be placed in other webpages). For reference
+    view 'test12.png'.
+
+13) On the table showing the commits, click on the hyperlinked revision number for any of the commits
+    There is only one in our case. This should lead you to a new page that shows the commit in more
+    detail with hyperlinks to other files in the portfolio that were also modified in the same commit.
+    See 'test13.png'.
+
+14) Click on any of the hyperlinked paths and this should lead you to a file information page similar
+    to the one we just came from. In fact at the bottom of the table IS the file we just visited.
+
+15) Notice that the url contians the file path of the current file (the url is of the form
+    '.../fileInfo.php/action?=<the current file path>') attempting to view non-available files by
+    changing this path should result in a blank page like 'test14.png'.
+
+16) Also note that information on directories are not viewable; Only files are viewable. Changing the
+    url to point to a directory, even if in the portfolio, should in a blank page as in 'test14.png'.
+
+17) Go back to the commit page we visited in step (12) notice the url contains the revision number
+    the current commit. Changing this to an unavailable revision number should result in a blank page
+    like in 'test17.png'
+
+18) Navigate back to a valid file info page. We will use the same page as before, for
+    'redyellow_mushroom.png'. Type in a comment containing any of the filtered words, which include:
+    'fuck', 'fucked', 'fucking', 'bitch'. See 'test18.png'.
+
+19) Submit the comment and every occurrence of filtered word should be surrounded by stars, as in
+    'test19.png' (we do not like censoring).
+
+20) Finally click the 'home' button in the nav bar at the top of the page, and it should lead back to
+    the home page home; this again should look like 'test1.png'.
+
+21) To show the functionality of obtaining file versions from svn, navigate to the homepage, and from
+    there to the fileInfoPage for 'Assignment1.0/src/discardedSnippets.txt'. On the commit table, click the
+    'view file' button on for the second commit. An i-frame should appear with the contents of the
+    text file. Now click on the third button and observe the changes between the second and the third
+    revisions of the file. The file contents should look the same as in 'test21_2.png', and
+    'test21_3.png' respectively.

@@ -1,0 +1,2501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp16-cs242/pibe2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2009">
+<author>pibe2</author>
+<date>2016-01-28T22:00:17.779572Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariochangedir_left.png</name>
+<size>1799</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariochangedir_right.png</name>
+<size>1743</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariojump_left.png</name>
+<size>1677</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariojump_right.png</name>
+<size>1669</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariorest_left.png</name>
+<size>1562</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariorest_right.png</name>
+<size>1577</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariowalk1_left.png</name>
+<size>1661</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariowalk1_right.png</name>
+<size>1670</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariowalk2_left.png</name>
+<size>1551</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariowalk2_right.png</name>
+<size>1513</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariowalk3_left.png</name>
+<size>1522</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bigmariowalk3_right.png</name>
+<size>1527</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cleared_scaled_mario11bg.png</name>
+<size>2279612</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/coin.png</name>
+<size>273</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/dirtblock.png</name>
+<size>5275</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/furballwalk1.png</name>
+<size>956</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/furballwalk2.png</name>
+<size>959</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/mario1_1.py</name>
+<size>44725</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/questblock.png</name>
+<size>817</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/questblock_spent.png</name>
+<size>456</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariochangedir_left.png</name>
+<size>944</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariochangedir_right.png</name>
+<size>970</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariojump_left.png</name>
+<size>1058</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariojump_right.png</name>
+<size>1013</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariorest_left.png</name>
+<size>943</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariorest_right.png</name>
+<size>939</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariowalk1_left.png</name>
+<size>977</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariowalk1_right.png</name>
+<size>457</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariowalk2_left.png</name>
+<size>888</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariowalk2_right.png</name>
+<size>906</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariowalk3_left.png</name>
+<size>880</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/smallmariowalk3_right.png</name>
+<size>898</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/trans_blank.png</name>
+<size>312</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/turtleshell_left.png</name>
+<size>1557</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/turtleshell_right.png</name>
+<size>1597</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/turtlewalk1_left.png</name>
+<size>1467</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/turtlewalk1_right.png</name>
+<size>1413</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/turtlewalk2_left.png</name>
+<size>1362</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/turtlewalk2_right.png</name>
+<size>1334</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/whiteorangered_flower.png</name>
+<size>824</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/yellowgreen_mushroom.png</name>
+<size>879</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/yellowred_mushroom.png</name>
+<size>422</size>
+<commit
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring</name>
+<commit
+   revision="3630">
+<author>pibe2</author>
+<date>2016-02-05T03:12:47.910172Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/COPYING</name>
+<size>18011</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring/bin</name>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring/bin/lanSimulation</name>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/bin/lanSimulation/LANSimulation.class</name>
+<size>4578</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring/bin/lanSimulation/internals</name>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/bin/lanSimulation/internals/Network.class</name>
+<size>8443</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/bin/lanSimulation/internals/Node.class</name>
+<size>1222</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring/bin/lanSimulation/tests</name>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1112</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/bin/lanSimulation/tests/LANTests.class</name>
+<size>9558</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring/doc</name>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/doc/README</name>
+<size>1230</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring/src</name>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring/src/lanSimulation</name>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/src/lanSimulation/LANSimulation.java</name>
+<size>5885</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring/src/lanSimulation/internals</name>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/src/lanSimulation/internals/Network.java</name>
+<size>13541</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/src/lanSimulation/internals/Node.java</name>
+<size>2406</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0_Refactoring/src/lanSimulation/tests</name>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0_Refactoring/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="7589">
+<author>pibe2</author>
+<date>2016-03-01T04:35:48.506333Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.classpath</name>
+<size>303</size>
+<commit
+   revision="4199">
+<author>pibe2</author>
+<date>2016-02-09T06:12:53.907969Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.project</name>
+<size>362</size>
+<commit
+   revision="4199">
+<author>pibe2</author>
+<date>2016-02-09T06:12:53.907969Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin</name>
+<commit
+   revision="3344">
+<author>pibe2</author>
+<date>2016-02-04T08:19:46.646519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/myDocs.Doxyfile</name>
+<size>102376</size>
+<commit
+   revision="4191">
+<author>pibe2</author>
+<date>2016-02-09T05:40:31.202938Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="7589">
+<author>pibe2</author>
+<date>2016-03-01T04:35:48.506333Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/AllTests.java</name>
+<size>229</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Bishop.java</name>
+<size>444</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessGUIController.java</name>
+<size>6006</size>
+<commit
+   revision="6177">
+<author>pibe2</author>
+<date>2016-02-18T23:52:49.980242Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessPiece.java</name>
+<size>7205</size>
+<commit
+   revision="5638">
+<author>pibe2</author>
+<date>2016-02-16T21:35:57.853638Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ChessView.java</name>
+<size>8238</size>
+<commit
+   revision="7589">
+<author>pibe2</author>
+<date>2016-03-01T04:35:48.506333Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/ClassicChess.java</name>
+<size>6316</size>
+<commit
+   revision="5814">
+<author>pibe2</author>
+<date>2016-02-17T20:30:16.828062Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/CtrlPanelMesgEnum.java</name>
+<size>2257</size>
+<commit
+   revision="6155">
+<author>pibe2</author>
+<date>2016-02-18T23:19:17.289999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/IconsForTileButtons.java</name>
+<size>2965</size>
+<commit
+   revision="4527">
+<author>pibe2</author>
+<date>2016-02-11T03:32:25.887755Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/IsLegalMoveEnum.java</name>
+<size>968</size>
+<commit
+   revision="6121">
+<author>pibe2</author>
+<date>2016-02-18T21:52:02.961091Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/King.java</name>
+<size>436</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Knight.java</name>
+<size>550</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Move.java</name>
+<size>963</size>
+<commit
+   revision="7589">
+<author>pibe2</author>
+<date>2016-03-01T04:35:48.506333Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pawn.java</name>
+<size>2294</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/PiecesMoveCorrectly.java</name>
+<size>36729</size>
+<commit
+   revision="5792">
+<author>pibe2</author>
+<date>2016-02-17T16:25:23.379596Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Player.java</name>
+<size>4031</size>
+<commit
+   revision="6121">
+<author>pibe2</author>
+<date>2016-02-18T21:52:02.961091Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Queen.java</name>
+<size>2403</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Rook.java</name>
+<size>436</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/SuperPawn.java</name>
+<size>1048</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/TestPlayerMethods.java</name>
+<size>14305</size>
+<commit
+   revision="5792">
+<author>pibe2</author>
+<date>2016-02-17T16:25:23.379596Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/TestScenario.java</name>
+<size>1735</size>
+<commit
+   revision="3344">
+<author>pibe2</author>
+<date>2016-02-04T08:19:46.646519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/TileButton.java</name>
+<size>2143</size>
+<commit
+   revision="6155">
+<author>pibe2</author>
+<date>2016-02-18T23:19:17.289999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Wazir.java</name>
+<size>811</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/discardedSnippets.txt</name>
+<size>3663</size>
+<commit
+   revision="5590">
+<author>pibe2</author>
+<date>2016-02-16T06:43:06.342989Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/guiTestingScript</name>
+<commit
+   revision="4532">
+<author>pibe2</author>
+<date>2016-02-11T04:04:37.454845Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript/guiTest1.jpg</name>
+<size>150543</size>
+<commit
+   revision="4532">
+<author>pibe2</author>
+<date>2016-02-11T04:04:37.454845Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript/guiTest2.jpg</name>
+<size>146845</size>
+<commit
+   revision="4532">
+<author>pibe2</author>
+<date>2016-02-11T04:04:37.454845Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript/guiTest3.jpg</name>
+<size>147138</size>
+<commit
+   revision="4532">
+<author>pibe2</author>
+<date>2016-02-11T04:04:37.454845Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript/guiTest4.jpg</name>
+<size>148257</size>
+<commit
+   revision="4532">
+<author>pibe2</author>
+<date>2016-02-11T04:04:37.454845Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript/guiTest5.jpg</name>
+<size>138194</size>
+<commit
+   revision="4532">
+<author>pibe2</author>
+<date>2016-02-11T04:04:37.454845Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript/guiTestingInstructions.txt</name>
+<size>908</size>
+<commit
+   revision="4532">
+<author>pibe2</author>
+<date>2016-02-11T04:04:37.454845Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/guiTestingScript2</name>
+<commit
+   revision="6176">
+<author>pibe2</author>
+<date>2016-02-18T23:52:00.390832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test.txt</name>
+<size>2510</size>
+<commit
+   revision="6176">
+<author>pibe2</author>
+<date>2016-02-18T23:52:00.390832Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test1.png</name>
+<size>187166</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test10.png</name>
+<size>277994</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test11.png</name>
+<size>299523</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test13.png</name>
+<size>311419</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test14.png</name>
+<size>317077</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test18.png</name>
+<size>353742</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test2.png</name>
+<size>227238</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test3.png</name>
+<size>230184</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test4.png</name>
+<size>243753</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test5.png</name>
+<size>254780</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test6.png</name>
+<size>264844</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test7.png</name>
+<size>269796</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test8.png</name>
+<size>285454</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/guiTestingScript2/test9.png</name>
+<size>269281</size>
+<commit
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/pieceImages</name>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/bishop_black.png</name>
+<size>6125</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/bishop_gold.png</name>
+<size>8809</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/king_black.png</name>
+<size>6689</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/king_gold.png</name>
+<size>10253</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/knight_black.png</name>
+<size>4375</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/knight_gold.png</name>
+<size>6810</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/pawn_black.png</name>
+<size>3338</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/pawn_gold.png</name>
+<size>4381</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/queen_black.png</name>
+<size>6196</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/queen_gold.png</name>
+<size>9063</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/rook_black.png</name>
+<size>3370</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/rook_gold.png</name>
+<size>4993</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/superpawn_black.png</name>
+<size>3222</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/superpawn_gold.png</name>
+<size>4282</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/wazir_black.png</name>
+<size>3700</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieceImages/wazir_gold.png</name>
+<size>5218</size>
+<commit
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="7551">
+<author>pibe2</author>
+<date>2016-02-29T18:25:55.280601Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src</name>
+<commit
+   revision="7551">
+<author>pibe2</author>
+<date>2016-02-29T18:25:55.280601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/InputJSON.rb</name>
+<size>1922</size>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/OutputURL.rb</name>
+<size>596</size>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/UI.rb</name>
+<size>7795</size>
+<commit
+   revision="7123">
+<author>pibe2</author>
+<date>2016-02-26T00:40:42.558270Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src/graph</name>
+<commit
+   revision="7551">
+<author>pibe2</author>
+<date>2016-02-29T18:25:55.280601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/graph/Coordinate.rb</name>
+<size>289</size>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/graph/Edge.rb</name>
+<size>604</size>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/graph/Graph.rb</name>
+<size>580</size>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/graph/Node.rb</name>
+<size>1164</size>
+<commit
+   revision="7551">
+<author>pibe2</author>
+<date>2016-02-29T18:25:55.280601Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/graph/NodeInfo.rb</name>
+<size>1259</size>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src/input</name>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/src/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src/output</name>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/src/tests</name>
+<commit
+   revision="7107">
+<author>pibe2</author>
+<date>2016-02-25T23:41:49.392029Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src</name>
+<commit
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/InputJSON.rb</name>
+<size>2196</size>
+<commit
+   revision="7855">
+<author>pibe2</author>
+<date>2016-03-03T09:46:22.124786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/OutputURL.rb</name>
+<size>634</size>
+<commit
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/UI.rb</name>
+<size>19321</size>
+<commit
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/cmi_hub.json</name>
+<size>1104</size>
+<commit
+   revision="7838">
+<author>pibe2</author>
+<date>2016-03-03T07:24:51.527365Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/graph</name>
+<commit
+   revision="7855">
+<author>pibe2</author>
+<date>2016-03-03T09:46:22.124786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/graph/Coordinate.rb</name>
+<size>801</size>
+<commit
+   revision="7780">
+<author>pibe2</author>
+<date>2016-03-03T00:37:11.112556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/graph/Edge.rb</name>
+<size>828</size>
+<commit
+   revision="7807">
+<author>pibe2</author>
+<date>2016-03-03T05:11:17.318573Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/graph/Graph.rb</name>
+<size>4696</size>
+<commit
+   revision="7855">
+<author>pibe2</author>
+<date>2016-03-03T09:46:22.124786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/graph/Node.rb</name>
+<size>1369</size>
+<commit
+   revision="7780">
+<author>pibe2</author>
+<date>2016-03-03T00:37:11.112556Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/graph/NodeInfo.rb</name>
+<size>1756</size>
+<commit
+   revision="7780">
+<author>pibe2</author>
+<date>2016-03-03T00:37:11.112556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/input</name>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/map_data.json</name>
+<size>16500</size>
+<commit
+   revision="7780">
+<author>pibe2</author>
+<date>2016-03-03T00:37:11.112556Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/output</name>
+<commit
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/savetest_uni.json</name>
+<size>30833</size>
+<commit
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/testgraph2_uni.json</name>
+<size>1907</size>
+<commit
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/testgraph_uni.json</name>
+<size>1907</size>
+<commit
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/src/tests</name>
+<commit
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/src/tests/graphtest.rb</name>
+<size>305</size>
+<commit
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="9033">
+<author>pibe2</author>
+<date>2016-03-11T05:16:27.616872Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/.idea</name>
+<commit
+   revision="9030">
+<author>pibe2</author>
+<date>2016-03-11T04:59:39.517581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/.name</name>
+<size>9</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/Assignment3.0.iml</name>
+<size>281</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/blade.xml</name>
+<size>166</size>
+<commit
+   revision="8848">
+<author>pibe2</author>
+<date>2016-03-10T16:57:10.017908Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/.idea/copyright</name>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/misc.xml</name>
+<size>671</size>
+<commit
+   revision="8829">
+<author>pibe2</author>
+<date>2016-03-10T11:06:01.868721Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/modules.xml</name>
+<size>391</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/php.xml</name>
+<size>324</size>
+<commit
+   revision="8848">
+<author>pibe2</author>
+<date>2016-03-10T16:57:10.017908Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/svn web portfolio.iml</name>
+<size>281</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/workspace.xml</name>
+<size>49329</size>
+<commit
+   revision="9030">
+<author>pibe2</author>
+<date>2016-03-11T04:59:39.517581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/SvnXmlParserTest.php</name>
+<size>3337</size>
+<commit
+   revision="8990">
+<author>pibe2</author>
+<date>2016-03-11T00:57:58.695555Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/commitInfo.php</name>
+<size>4169</size>
+<commit
+   revision="8990">
+<author>pibe2</author>
+<date>2016-03-11T00:57:58.695555Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/css_tree</name>
+<commit
+   revision="9033">
+<author>pibe2</author>
+<date>2016-03-11T05:16:27.616872Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css_tree/copiedStyles.css</name>
+<size>2130</size>
+<commit
+   revision="9033">
+<author>pibe2</author>
+<date>2016-03-11T05:16:27.616872Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css_tree/document.png</name>
+<size>485</size>
+<commit
+   revision="9031">
+<author>pibe2</author>
+<date>2016-03-11T05:04:00.943363Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css_tree/folder-horizontal.png</name>
+<size>401</size>
+<commit
+   revision="9031">
+<author>pibe2</author>
+<date>2016-03-11T05:04:00.943363Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css_tree/mine_generated.html</name>
+<size>386</size>
+<commit
+   revision="9031">
+<author>pibe2</author>
+<date>2016-03-11T05:04:00.943363Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css_tree/mine_pasted.html</name>
+<size>25534</size>
+<commit
+   revision="9033">
+<author>pibe2</author>
+<date>2016-03-11T05:16:27.616872Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css_tree/toggle-small-expand.png</name>
+<size>418</size>
+<commit
+   revision="9031">
+<author>pibe2</author>
+<date>2016-03-11T05:04:00.943363Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css_tree/toggle-small.png</name>
+<size>394</size>
+<commit
+   revision="9031">
+<author>pibe2</author>
+<date>2016-03-11T05:04:00.943363Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/fileClasses.php</name>
+<size>2314</size>
+<commit
+   revision="9029">
+<author>pibe2</author>
+<date>2016-03-11T04:53:46.087725Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/file_types.xml</name>
+<size>166528</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svnXmlParser.php</name>
+<size>7622</size>
+<commit
+   revision="9029">
+<author>pibe2</author>
+<date>2016-03-11T04:53:46.087725Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_list.xml</name>
+<size>36018</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_list_test.xml</name>
+<size>1060</size>
+<commit
+   revision="8990">
+<author>pibe2</author>
+<date>2016-03-11T00:57:58.695555Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_log.xml</name>
+<size>40545</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_log_test.xml</name>
+<size>1403</size>
+<commit
+   revision="8990">
+<author>pibe2</author>
+<date>2016-03-11T00:57:58.695555Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1</name>
+<commit
+   revision="9425">
+<author>pibe2</author>
+<date>2016-03-15T08:03:13.779071Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/.idea</name>
+<commit
+   revision="9425">
+<author>pibe2</author>
+<date>2016-03-15T08:03:13.779071Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="9417">
+<author>pibe2</author>
+<date>2016-03-15T05:29:42.696168Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/Assignment3.1.iml</name>
+<size>281</size>
+<commit
+   revision="9417">
+<author>pibe2</author>
+<date>2016-03-15T05:29:42.696168Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/blade.xml</name>
+<size>166</size>
+<commit
+   revision="8848">
+<author>pibe2</author>
+<date>2016-03-10T16:57:10.017908Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/.idea/copyright</name>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/misc.xml</name>
+<size>671</size>
+<commit
+   revision="8829">
+<author>pibe2</author>
+<date>2016-03-10T11:06:01.868721Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/modules.xml</name>
+<size>391</size>
+<commit
+   revision="9417">
+<author>pibe2</author>
+<date>2016-03-15T05:29:42.696168Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/php.xml</name>
+<size>324</size>
+<commit
+   revision="8848">
+<author>pibe2</author>
+<date>2016-03-10T16:57:10.017908Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/svn web portfolio.iml</name>
+<size>281</size>
+<commit
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/.idea/workspace.xml</name>
+<size>64321</size>
+<commit
+   revision="9425">
+<author>pibe2</author>
+<date>2016-03-15T08:03:13.779071Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/classes</name>
+<commit
+   revision="9424">
+<author>pibe2</author>
+<date>2016-03-15T08:02:20.226353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/classes/comment.php</name>
+<size>906</size>
+<commit
+   revision="9424">
+<author>pibe2</author>
+<date>2016-03-15T08:02:20.226353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/classes/commitInfo.php</name>
+<size>4314</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/classes/config.php</name>
+<size>187</size>
+<commit
+   revision="9424">
+<author>pibe2</author>
+<date>2016-03-15T08:02:20.226353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/classes/fileClasses.php</name>
+<size>3117</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/classes/resetDB.php</name>
+<size>1096</size>
+<commit
+   revision="9424">
+<author>pibe2</author>
+<date>2016-03-15T08:02:20.226353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/classes/svnXmlParser.php</name>
+<size>9191</size>
+<commit
+   revision="9424">
+<author>pibe2</author>
+<date>2016-03-15T08:02:20.226353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/classes/utils.php</name>
+<size>541</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/inputFiles</name>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/inputFiles/file_types.xml</name>
+<size>166528</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/inputFiles/svn_list.xml</name>
+<size>36018</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/inputFiles/svn_list_test.xml</name>
+<size>1060</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/inputFiles/svn_log.xml</name>
+<size>40545</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/inputFiles/svn_log_test.xml</name>
+<size>1403</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/tests</name>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/tests/SvnXmlParserTest.php</name>
+<size>3337</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/webView</name>
+<commit
+   revision="9425">
+<author>pibe2</author>
+<date>2016-03-15T08:03:13.779071Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/webView/autogeneratedElements</name>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/autogeneratedElements/echoGeneratedHTMLFileTree.php</name>
+<size>362</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/webView/images</name>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/images/background_worldMap.jpg</name>
+<size>584344</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/images/document.png</name>
+<size>485</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/images/folder-horizontal.png</name>
+<size>401</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/images/toggle-small-expand.png</name>
+<size>418</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/images/toggle-small.png</name>
+<size>394</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/webView/pages</name>
+<commit
+   revision="9424">
+<author>pibe2</author>
+<date>2016-03-15T08:02:20.226353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/pages/fileInfo.php</name>
+<size>1127</size>
+<commit
+   revision="9417">
+<author>pibe2</author>
+<date>2016-03-15T05:29:42.696168Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/pages/fileInfoWithIframe.php</name>
+<size>1363</size>
+<commit
+   revision="9424">
+<author>pibe2</author>
+<date>2016-03-15T08:02:20.226353Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/pages/index.php</name>
+<size>401</size>
+<commit
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/webView/styles</name>
+<commit
+   revision="9417">
+<author>pibe2</author>
+<date>2016-03-15T05:29:42.696168Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/webView/styles/copiedStyles.css</name>
+<size>3085</size>
+<commit
+   revision="9417">
+<author>pibe2</author>
+<date>2016-03-15T05:29:42.696168Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="8563">
+<author>pibe2</author>
+<date>2016-03-09T13:01:02.867323Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="1470">
+<author>pibe2</author>
+<date>2016-01-28T06:25:23.525768Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>94</size>
+<commit
+   revision="8563">
+<author>pibe2</author>
+<date>2016-03-09T13:01:02.867323Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list3.txt</name>
+<size>23</size>
+<commit
+   revision="1497">
+<author>pibe2</author>
+<date>2016-01-28T06:45:02.855869Z</date>
+</commit>
+</entry>
+</list>
+</lists>

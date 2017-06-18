@@ -1,0 +1,2878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="9425">
+<author>pibe2</author>
+<date>2016-03-15T08:03:13.779071Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.1/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="D">/pibe2/Assignment3.1/webView/portfolioFiles</path>
+</paths>
+<msg>fml</msg>
+</logentry>
+<logentry
+   revision="9424">
+<author>pibe2</author>
+<date>2016-03-15T08:02:20.226353Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.1/classes/comment.php</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/classes/config.php</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/classes/resetDB.php</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.1/classes/svnXmlParser.php</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.1/webView/pages/fileInfoWithIframe.php</path>
+</paths>
+<msg>fml</msg>
+</logentry>
+<logentry
+   revision="9417">
+<author>pibe2</author>
+<date>2016-03-15T05:29:42.696168Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.1/.idea/.name</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment3.1/.idea/Assignment3.0.iml</path>
+<path
+   kind="file"
+   copyfrom-path="/pibe2/Assignment3.1/.idea/Assignment3.0.iml"
+   copyfrom-rev="9354"
+   action="A">/pibe2/Assignment3.1/.idea/Assignment3.1.iml</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.1/.idea/modules.xml</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.1/webView/pages/fileInfo.php</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.1/webView/pages/fileInfoWithIframe.php</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.1/webView/styles/copiedStyles.css</path>
+</paths>
+<msg>gaveup on iframe; going with logging in everytime;</msg>
+</logentry>
+<logentry
+   revision="9356">
+<author>pibe2</author>
+<date>2016-03-14T11:33:32.165617Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment3.1/SvnXmlParserTest.php</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment3.1/commitInfo.php</path>
+<path
+   action="D"
+   kind="dir">/pibe2/Assignment3.1/css_tree</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment3.1/fileClasses.php</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment3.1/file_types.xml</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment3.1/svnXmlParser.php</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment3.1/svn_list.xml</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment3.1/svn_list_test.xml</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment3.1/svn_log.xml</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment3.1/svn_log_test.xml</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.1/webView/pages/fileInfoWithIframe.php</path>
+</paths>
+<msg>created fileInfoWithIframe.php</msg>
+</logentry>
+<logentry
+   revision="9355">
+<author>pibe2</author>
+<date>2016-03-14T11:22:20.486623Z</date>
+<paths>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/pibe2/Assignment3.1/webView/pages/fileInfo.php"
+   copyfrom-rev="9354">/pibe2/Assignment3.1/webView/pages/fileInfoWithIframe.php</path>
+</paths>
+<msg>created fileInfoWithIframe.php</msg>
+</logentry>
+<logentry
+   revision="9354">
+<author>pibe2</author>
+<date>2016-03-14T10:47:58.287575Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/classes</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/classes/comment.php</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/classes/commitInfo.php</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/classes/fileClasses.php</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/classes/svnXmlParser.php</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/classes/utils.php</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/inputFiles</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/inputFiles/file_types.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/inputFiles/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/inputFiles/svn_list_test.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/inputFiles/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/inputFiles/svn_log_test.xml</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/tests</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/tests/SvnXmlParserTest.php</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/autogeneratedElements</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/autogeneratedElements/echoGeneratedHTMLFileTree.php</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/images</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/images/background_worldMap.jpg</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/images/document.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/images/folder-horizontal.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/images/toggle-small-expand.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/images/toggle-small.png</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/pages</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/pages/fileInfo.php</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/pages/index.php</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariochangedir_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariochangedir_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariojump_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariojump_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariorest_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariorest_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariowalk1_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariowalk1_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariowalk2_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariowalk2_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariowalk3_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/bigmariowalk3_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/cleared_scaled_mario11bg.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/coin.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/dirtblock.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/furballwalk1.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/furballwalk2.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/mario1_1.py</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/questblock.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/questblock_spent.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariochangedir_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariochangedir_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariojump_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariojump_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariorest_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariorest_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariowalk1_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariowalk1_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariowalk2_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariowalk2_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariowalk3_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/smallmariowalk3_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/trans_blank.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/turtleshell_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/turtleshell_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/turtlewalk1_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/turtlewalk1_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/turtlewalk2_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/turtlewalk2_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/whiteorangered_flower.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/yellowgreen_mushroom.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0/yellowred_mushroom.png</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/COPYING</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin/lanSimulation/internals/Network.class</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/doc</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/doc/README</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/src</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/src/lanSimulation/internals/Network.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment0_Refactoring/useOutput.txt</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/.classpath</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/.project</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/bin</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/myDocs.Doxyfile</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/ChessPiece.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/ChessView.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/ClassicChess.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/CtrlPanelMesgEnum.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/IconsForTileButtons.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/IsLegalMoveEnum.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/King.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/Knight.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/Move.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/PiecesMoveCorrectly.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/Player.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/Queen.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/Rook.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/SuperPawn.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/TestPlayerMethods.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/TestScenario.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/TileButton.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/Wazir.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/discardedSnippets.txt</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript/guiTest1.jpg</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript/guiTest2.jpg</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript/guiTest3.jpg</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript/guiTest4.jpg</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript/guiTest5.jpg</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript/guiTestingInstructions.txt</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test.txt</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test1.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test10.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test11.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test13.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test14.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test18.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test2.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test3.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test4.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test5.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test6.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test7.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test8.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/guiTestingScript2/test9.png</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/bishop_black.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/bishop_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/king_black.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/king_gold.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/knight_black.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/knight_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/pawn_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/pawn_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/queen_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/queen_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/rook_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/rook_gold.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/superpawn_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/superpawn_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/wazir_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment1.0/src/pieceImages/wazir_gold.png</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/InputJSON.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/OutputURL.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/UI.rb</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/graph</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/graph/Coordinate.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/graph/Edge.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/graph/Graph.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/graph/Node.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/graph/NodeInfo.rb</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/input</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/map_data.json</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/output</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.0/src/tests</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/InputJSON.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/OutputURL.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/UI.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/cmi_hub.json</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/graph</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/graph/Coordinate.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/graph/Edge.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/graph/Graph.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/graph/Node.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/graph/NodeInfo.rb</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/input</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/map_data.json</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/output</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/savetest_uni.json</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/testgraph2_uni.json</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/testgraph_uni.json</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/tests</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/Assignment2.1/src/tests/graphtest.rb</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/shopping</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.1/webView/portfolioFiles/shopping/list1.txt</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/shopping/list2.txt</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/portfolioFiles/shopping/list3.txt</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.1/webView/styles</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.1/webView/styles/copiedStyles.css</path>
+</paths>
+<msg>svn failure after too many mods... i guess</msg>
+</logentry>
+<logentry
+   revision="9034">
+<author>pibe2</author>
+<date>2016-03-11T05:18:47.563336Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/pibe2/Assignment3.0"
+   copyfrom-rev="9032"
+   action="A">/pibe2/Assignment3.1</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.1/.idea/workspace.xml</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/pibe2/Assignment3.0/css_tree/copiedStyles.css"
+   copyfrom-rev="9033">/pibe2/Assignment3.1/css_tree/copiedStyles.css</path>
+<path
+   kind="file"
+   copyfrom-path="/pibe2/Assignment3.0/css_tree/mine_pasted.html"
+   copyfrom-rev="9033"
+   action="R">/pibe2/Assignment3.1/css_tree/mine_pasted.html</path>
+</paths>
+<msg>branching for assig3.1</msg>
+</logentry>
+<logentry
+   revision="9033">
+<author>pibe2</author>
+<date>2016-03-11T05:16:27.616872Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/css_tree/copiedStyles.css</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/css_tree/mine_pasted.html</path>
+</paths>
+<msg>added sources;</msg>
+</logentry>
+<logentry
+   revision="9031">
+<author>pibe2</author>
+<date>2016-03-11T05:04:00.943363Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.0/css_tree</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/css_tree/copiedStyles.css</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/css_tree/document.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/css_tree/folder-horizontal.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/css_tree/mine_generated.html</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/css_tree/mine_pasted.html</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/css_tree/toggle-small-expand.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/css_tree/toggle-small.png</path>
+</paths>
+<msg>adding html files and pictures courtesy of:  http://www.thecssninja.com/css/css-tree-menu</msg>
+</logentry>
+<logentry
+   revision="9030">
+<author>pibe2</author>
+<date>2016-03-11T04:59:39.517581Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/.idea/workspace.xml</path>
+</paths>
+<msg>adding html files and pictures courtesy of:  http://www.thecssninja.com/css/css-tree-menu</msg>
+</logentry>
+<logentry
+   revision="9029">
+<author>pibe2</author>
+<date>2016-03-11T04:53:46.087725Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/fileClasses.php</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment3.0/lookAndFeel.html</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.0/svnXmlParser.php</path>
+</paths>
+<msg>got some html;</msg>
+</logentry>
+<logentry
+   revision="8990">
+<author>pibe2</author>
+<date>2016-03-11T00:57:58.695555Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.0/SvnXmlParserTest.php</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.0/commitInfo.php</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/fileClasses.php</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/lookAndFeel.html</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.0/svnXmlParser.php</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.0/svn_list_test.xml</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment3.0/svn_log_test.xml</path>
+</paths>
+<msg>i don't know why it's print everythin gbut the ids;</msg>
+</logentry>
+<logentry
+   revision="8848">
+<author>pibe2</author>
+<date>2016-03-10T16:57:10.017908Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/.idea/blade.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/php.xml</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/SvnXmlParserTest.php</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/svnXmlParser.php</path>
+</paths>
+<msg>it's going to be a long day; yes it is;</msg>
+</logentry>
+<logentry
+   revision="8829">
+<author>pibe2</author>
+<date>2016-03-10T11:06:01.868721Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/SvnXmlParserTest.php</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/svn_list_test.xml</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment3.0/svn_log_test.xml</path>
+</paths>
+<msg>it's going to be a long day;</msg>
+</logentry>
+<logentry
+   revision="8818">
+<author>pibe2</author>
+<date>2016-03-10T10:21:21.618809Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.0</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.0/.idea</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/Assignment3.0.iml</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.0/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/.idea/svn web portfolio.iml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/commitInfo.php</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/fileClasses.php</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/file_types.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/lookAndFeel.html</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/svnXmlParser.php</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/svn_list_test.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/svn_log_test.xml</path>
+</paths>
+<msg>let</msg>
+</logentry>
+<logentry
+   revision="8817">
+<author>pibe2</author>
+<date>2016-03-10T10:20:49.046282Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/pibe2/Assignment3.0</path>
+</paths>
+<msg>deleted assig3 again</msg>
+</logentry>
+<logentry
+   revision="8745">
+<author>pibe2</author>
+<date>2016-03-10T06:11:45.755077Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.0</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment3.0/.idea</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/.idea/Assignment3.0.iml</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment3.0/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/svn web portfolio.iml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/fileClasses.php</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/file_types.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/lookAndFeel.html</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/parsedInfo.php</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment3.0/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/svn_log.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment3.0/xmlParser.php</path>
+</paths>
+<msg>first commit attempt II; still sucks</msg>
+</logentry>
+<logentry
+   revision="8744">
+<author>pibe2</author>
+<date>2016-03-10T06:09:25.657380Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/pibe2/.idea</path>
+</paths>
+<msg>you know whats coming</msg>
+</logentry>
+<logentry
+   revision="8743">
+<author>pibe2</author>
+<date>2016-03-10T06:08:28.980074Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/pibe2/fileClasses.php</path>
+<path
+   kind="file"
+   action="D">/pibe2/file_types.xml</path>
+<path
+   action="D"
+   kind="file">/pibe2/lookAndFeel.html</path>
+<path
+   action="D"
+   kind="file">/pibe2/parsedInfo.php</path>
+<path
+   action="D"
+   kind="file">/pibe2/svn_list.xml</path>
+<path
+   kind="file"
+   action="D">/pibe2/svn_log.xml</path>
+<path
+   kind="file"
+   action="D">/pibe2/xmlParser.php</path>
+</paths>
+<msg>fml2</msg>
+</logentry>
+<logentry
+   revision="8741">
+<author>pibe2</author>
+<date>2016-03-10T06:03:48.204203Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pibe2/.idea</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/Assignment3.0.iml</path>
+<path
+   action="A"
+   kind="dir">/pibe2/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/.idea/svn web portfolio.iml</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/fileClasses.php</path>
+<path
+   action="A"
+   kind="file">/pibe2/file_types.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/lookAndFeel.html</path>
+<path
+   kind="file"
+   action="A">/pibe2/parsedInfo.php</path>
+<path
+   kind="file"
+   action="A">/pibe2/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/xmlParser.php</path>
+</paths>
+<msg>first commit attempt II; still sucks</msg>
+</logentry>
+<logentry
+   revision="8739">
+<author>pibe2</author>
+<date>2016-03-10T05:58:18.439455Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/pibe2/.idea</path>
+<path
+   kind="file"
+   action="D">/pibe2/fileClasses.php</path>
+<path
+   kind="file"
+   action="D">/pibe2/file_types.xml</path>
+<path
+   kind="file"
+   action="D">/pibe2/lookAndFeel.html</path>
+<path
+   kind="file"
+   action="D">/pibe2/parsedInfo.php</path>
+<path
+   kind="file"
+   action="D">/pibe2/svn_list.xml</path>
+<path
+   kind="file"
+   action="D">/pibe2/svn_log.xml</path>
+<path
+   action="D"
+   kind="file">/pibe2/xmlParser.php</path>
+</paths>
+<msg>deleted assigment three bc i put it in wrong dir</msg>
+</logentry>
+<logentry
+   revision="8736">
+<author>pibe2</author>
+<date>2016-03-10T05:51:08.938064Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pibe2/.idea</path>
+<path
+   kind="file"
+   action="A">/pibe2/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/Assignment3.0.iml</path>
+<path
+   action="A"
+   kind="dir">/pibe2/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/.idea/svn web portfolio.iml</path>
+<path
+   kind="file"
+   action="A">/pibe2/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/fileClasses.php</path>
+<path
+   action="A"
+   kind="file">/pibe2/file_types.xml</path>
+<path
+   action="A"
+   kind="file">/pibe2/lookAndFeel.html</path>
+<path
+   kind="file"
+   action="A">/pibe2/parsedInfo.php</path>
+<path
+   kind="file"
+   action="A">/pibe2/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/pibe2/xmlParser.php</path>
+</paths>
+<msg>Assignment3 first commit; this sucks;</msg>
+</logentry>
+<logentry
+   revision="8563">
+<author>pibe2</author>
+<date>2016-03-09T13:01:02.867323Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/shopping/list2.txt</path>
+</paths>
+<msg>changed something in shoppng/list2.txt to see if its date from svn list changes</msg>
+</logentry>
+<logentry
+   revision="7990">
+<author>pibe2</author>
+<date>2016-03-03T23:13:38.475499Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/OutputURL.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/UI.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment2.1/src/savetest_uni.json</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment2.1/src/testgraph2_uni.json</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment2.1/src/testgraph_uni.json</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/tests/graphtest.rb</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment2.1/src/ui_utils.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7861">
+<author>pibe2</author>
+<date>2016-03-03T10:02:06.155817Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/UI.rb</path>
+</paths>
+<msg>
+</msg>
+</logentry>
+<logentry
+   revision="7855">
+<author>pibe2</author>
+<date>2016-03-03T09:46:22.124786Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/InputJSON.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/UI.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/graph/Graph.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment2.1/src/ui_utils.rb</path>
+</paths>
+<msg>getting there with json</msg>
+</logentry>
+<logentry
+   revision="7838">
+<author>pibe2</author>
+<date>2016-03-03T07:24:51.527365Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/InputJSON.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/UI.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment2.1/src/cmi_hub.json</path>
+</paths>
+<msg>getting there with json</msg>
+</logentry>
+<logentry
+   revision="7812">
+<author>pibe2</author>
+<date>2016-03-03T05:31:40.982440Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/UI.rb</path>
+</paths>
+<msg>getting there with json</msg>
+</logentry>
+<logentry
+   revision="7807">
+<author>pibe2</author>
+<date>2016-03-03T05:11:17.318573Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/UI.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/graph/Edge.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/graph/Graph.rb</path>
+</paths>
+<msg>getting there with json</msg>
+</logentry>
+<logentry
+   revision="7780">
+<author>pibe2</author>
+<date>2016-03-03T00:37:11.112556Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/InputJSON.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/UI.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/graph/Coordinate.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/graph/Edge.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/graph/Graph.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/graph/Node.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/graph/NodeInfo.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/map_data.json</path>
+</paths>
+<msg>getting there with json</msg>
+</logentry>
+<logentry
+   revision="7673">
+<author>pibe2</author>
+<date>2016-03-02T01:09:19.654841Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/InputJSON.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/UI.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/graph/Coordinate.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/graph/NodeInfo.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/map_data.json</path>
+</paths>
+<msg>getting there with json</msg>
+</logentry>
+<logentry
+   revision="7617">
+<author>pibe2</author>
+<date>2016-03-01T12:34:00.852425Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/OutputURL.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/UI.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/graph/Graph.rb</path>
+</paths>
+<msg>dijkstra maybe done</msg>
+</logentry>
+<logentry
+   revision="7616">
+<author>pibe2</author>
+<date>2016-03-01T10:48:42.179703Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/InputJSON.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/OutputURL.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/UI.rb</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/graph/Graph.rb</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/graph/Node.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment2.1/src/tests/graphtest.rb</path>
+</paths>
+<msg>removed unnecessary reference spec comments</msg>
+</logentry>
+<logentry
+   revision="7592">
+<author>pibe2</author>
+<date>2016-03-01T05:46:19.546332Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/UI.rb</path>
+</paths>
+<msg>removed unnecessary reference spec comments</msg>
+</logentry>
+<logentry
+   revision="7589">
+<author>pibe2</author>
+<date>2016-03-01T04:35:48.506333Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/Move.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7588">
+<author>pibe2</author>
+<date>2016-03-01T04:25:47.499319Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/UI.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7587">
+<author>pibe2</author>
+<date>2016-03-01T04:25:35.165803Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.1/src/graph/Node.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7586">
+<author>pibe2</author>
+<date>2016-03-01T04:25:08.947572Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.1/src/graph/Graph.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7552">
+<author>pibe2</author>
+<date>2016-02-29T18:27:21.477840Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/pibe2/Assignment2.0"
+   copyfrom-rev="7551">/pibe2/Assignment2.1</path>
+</paths>
+<msg>starting Assignment2.1 by branching from Assignment2.0</msg>
+</logentry>
+<logentry
+   revision="7551">
+<author>pibe2</author>
+<date>2016-02-29T18:25:55.280601Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment2.0/src/graph/Node.rb</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7123">
+<author>pibe2</author>
+<date>2016-02-26T00:40:42.558270Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment2.0/src/UI.rb</path>
+</paths>
+<msg>ooh well</msg>
+</logentry>
+<logentry
+   revision="7107">
+<author>pibe2</author>
+<date>2016-02-25T23:41:49.392029Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment2.0/src/graph/Testing.rb</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment2.0/src/tests</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7106">
+<author>pibe2</author>
+<date>2016-02-25T23:35:05.720023Z</date>
+<paths>
+<path
+   action="M"
+   kind="dir">/pibe2/Assignment2.0</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment2.0/src</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment2.0/src/InputJSON.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment2.0/src/OutputURL.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment2.0/src/UI.rb</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment2.0/src/graph</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment2.0/src/graph/Coordinate.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment2.0/src/graph/Edge.rb</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment2.0/src/graph/Graph.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment2.0/src/graph/Node.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment2.0/src/graph/NodeInfo.rb</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment2.0/src/graph/Testing.rb</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment2.0/src/input</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment2.0/src/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment2.0/src/output</path>
+</paths>
+<msg>question marks; trying to get rid of them.</msg>
+</logentry>
+<logentry
+   revision="7105">
+<author>pibe2</author>
+<date>2016-02-25T23:29:22.114391Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment2.0</path>
+</paths>
+<msg>Initial import. this sucks</msg>
+</logentry>
+<logentry
+   revision="6177">
+<author>pibe2</author>
+<date>2016-02-18T23:52:49.980242Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+</paths>
+<msg>minor comment changes</msg>
+</logentry>
+<logentry
+   revision="6176">
+<author>pibe2</author>
+<date>2016-02-18T23:52:00.390832Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/guiTestingScript2/test.txt</path>
+</paths>
+<msg>adding test</msg>
+</logentry>
+<logentry
+   revision="6171">
+<author>pibe2</author>
+<date>2016-02-18T23:41:47.516851Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment1.0/src/guiTestingScript2</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test.txt</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/guiTestingScript2/test1.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/guiTestingScript2/test10.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/guiTestingScript2/test11.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test13.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test14.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test18.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test2.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test3.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test4.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test5.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/guiTestingScript2/test6.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/guiTestingScript2/test7.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test8.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript2/test9.png</path>
+</paths>
+<msg>test script; now for linner</msg>
+</logentry>
+<logentry
+   revision="6155">
+<author>pibe2</author>
+<date>2016-02-18T23:19:17.289999Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/CtrlPanelMesgEnum.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/TileButton.java</path>
+</paths>
+<msg>final version?</msg>
+</logentry>
+<logentry
+   revision="6121">
+<author>pibe2</author>
+<date>2016-02-18T21:52:02.961091Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment1.0/src/CtrlPanelEnum.java</path>
+<path
+   kind="file"
+   copyfrom-path="/pibe2/Assignment1.0/src/CtrlPanelEnum.java"
+   copyfrom-rev="5814"
+   action="A">/pibe2/Assignment1.0/src/CtrlPanelMesgEnum.java</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment1.0/src/EndGameEnum.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/IsLegalMoveEnum.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/Player.java</path>
+</paths>
+<msg>now on to manual test plan. Joy</msg>
+</logentry>
+<logentry
+   revision="5814">
+<author>pibe2</author>
+<date>2016-02-17T20:30:16.828062Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment1.0/src/ConfirmationEnum.java</path>
+<path
+   kind="file"
+   copyfrom-path="/pibe2/Assignment1.0/src/ConfirmationEnum.java"
+   copyfrom-rev="5638"
+   action="A">/pibe2/Assignment1.0/src/CtrlPanelEnum.java</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment1.0/src/MiscErrorEnum.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Player.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5792">
+<author>pibe2</author>
+<date>2016-02-17T16:25:23.379596Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/MiscErrorEnum.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/Move.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/PiecesMoveCorrectly.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/Player.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/TestPlayerMethods.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/TileButton.java</path>
+</paths>
+<msg>added undo and restart functionality, but no confirmation from opponent required.</msg>
+</logentry>
+<logentry
+   revision="5638">
+<author>pibe2</author>
+<date>2016-02-16T21:35:57.853638Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/ConfirmationEnum.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/EndGameEnum.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/IsLegalMoveEnum.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/Move.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/PiecesMoveCorrectly.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/TestPlayerMethods.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/TileButton.java</path>
+</paths>
+<msg>partially completed undo-functionality; backing up before refactoring
+</msg>
+</logentry>
+<logentry
+   revision="5590">
+<author>pibe2</author>
+<date>2016-02-16T06:43:06.342989Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/IsLegalMoveEnum.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/TileButton.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/discardedSnippets.txt</path>
+</paths>
+<msg>completed gui minus endgame, and restart, forfeit, and undo functionalities</msg>
+</logentry>
+<logentry
+   revision="4533">
+<author>pibe2</author>
+<date>2016-02-11T04:10:30.569485Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4532">
+<author>pibe2</author>
+<date>2016-02-11T04:04:37.454845Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment1.0/src/guiTestingScript</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/guiTestingScript/guiTest1.jpg</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/guiTestingScript/guiTest2.jpg</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/guiTestingScript/guiTest3.jpg</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript/guiTest4.jpg</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript/guiTest5.jpg</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/guiTestingScript/guiTestingInstructions.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4527">
+<author>pibe2</author>
+<date>2016-02-11T03:32:25.887755Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/IconsForTileButtons.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/Player.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4427">
+<author>pibe2</author>
+<date>2016-02-10T19:56:48.998725Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/IsLegalMoveEnum.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4425">
+<author>pibe2</author>
+<date>2016-02-10T19:44:08.487294Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/IconsForTileButtons.java</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment1.0/src/PieceEnum.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/TileButton.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4404">
+<author>pibe2</author>
+<date>2016-02-10T10:45:07.849692Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/ChessGUIController.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/TileButton.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4403">
+<author>pibe2</author>
+<date>2016-02-10T09:54:28.656429Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/AllTests.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/ChessView.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/IconsForTileButtons.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/King.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Knight.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/PieceEnum.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/PiecesMoveCorrectly.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Player.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Queen.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Rook.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/SuperPawn.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/TileButton.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/Wazir.java</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment1.0/src/pieceImages</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/pieceImages/bishop_black.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/pieceImages/bishop_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/king_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/king_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/knight_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/knight_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/pawn_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/pawn_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/queen_black.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/pieceImages/queen_gold.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/pieceImages/rook_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/rook_gold.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/superpawn_black.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/pieceImages/superpawn_gold.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/pieceImages/wazir_black.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/pieceImages/wazir_gold.png</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4199">
+<author>pibe2</author>
+<date>2016-02-09T06:12:53.907969Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/.project</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Wazir.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4192">
+<author>pibe2</author>
+<date>2016-02-09T05:42:09.155956Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessPiece.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4191">
+<author>pibe2</author>
+<date>2016-02-09T05:40:31.202938Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/pibe2/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/myDocs.Doxyfile</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/AllTests.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/PiecesMoveCorrectly.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Player.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/SuperPawn.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/TestPlayerMethods.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/Wazir.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/discardedSnippets.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3630">
+<author>pibe2</author>
+<date>2016-02-05T03:12:47.910172Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment0_Refactoring/.classpath</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment0_Refactoring/.project</path>
+<path
+   action="D"
+   kind="dir">/pibe2/Assignment0_Refactoring/.settings</path>
+</paths>
+<msg>deleted dot files</msg>
+</logentry>
+<logentry
+   revision="3627">
+<author>pibe2</author>
+<date>2016-02-05T03:10:07.787165Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment0_Refactoring</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/.classpath</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/.project</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment0_Refactoring/.settings</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/COPYING</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment0_Refactoring/bin</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment0_Refactoring/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment0_Refactoring/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/bin/lanSimulation/internals/Network.class</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment0_Refactoring/bin/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment0_Refactoring/doc</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/doc/README</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment0_Refactoring/src</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment0_Refactoring/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment0_Refactoring/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/src/lanSimulation/internals/Network.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment0_Refactoring/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0_Refactoring/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0_Refactoring/useOutput.txt</path>
+</paths>
+<msg>thought we only had to commit the grocery list tutorial
+</msg>
+</logentry>
+<logentry
+   revision="3624">
+<author>pibe2</author>
+<date>2016-02-05T03:05:57.647541Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment1.0/.classpath</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment1.0/.project</path>
+<path
+   action="D"
+   kind="dir">/pibe2/Assignment1.0/.settings</path>
+<path
+   action="D"
+   kind="dir">/pibe2/HW0</path>
+</paths>
+<msg>deleted erronius submission
+</msg>
+</logentry>
+<logentry
+   revision="3623">
+<author>pibe2</author>
+<date>2016-02-05T03:04:03.865674Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/pibe2/HW0</path>
+</paths>
+<msg>Initial import.</msg>
+</logentry>
+<logentry
+   revision="3400">
+<author>pibe2</author>
+<date>2016-02-04T12:25:53.453384Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Player.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/TestPlayerMethods.java</path>
+</paths>
+<msg>just wow</msg>
+</logentry>
+<logentry
+   revision="3394">
+<author>pibe2</author>
+<date>2016-02-04T11:58:18.297646Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/PiecesMoveCorrectly.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Player.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/TestPlayerMethods.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/discardedSnippets.txt</path>
+</paths>
+<msg>wow</msg>
+</logentry>
+<logentry
+   revision="3344">
+<author>pibe2</author>
+<date>2016-02-04T08:19:46.646519Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment1.0/bin/Bishop.class</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment1.0/bin/ChessPiece.class</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment1.0/bin/ClassicChess.class</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment1.0/bin/King.class</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment1.0/bin/Knight.class</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment1.0/bin/Pawn.class</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment1.0/bin/PiecesMoveCorrectly.class</path>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment1.0/bin/Player.class</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment1.0/bin/Queen.class</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment1.0/bin/Rook.class</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/King.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Knight.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/PiecesMoveCorrectly.java</path>
+<path
+   action="M"
+   kind="file">/pibe2/Assignment1.0/src/Player.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Queen.java</path>
+<path
+   kind="file"
+   action="M">/pibe2/Assignment1.0/src/Rook.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/TestPlayerMethods.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/TestScenario.java</path>
+</paths>
+<msg>a whole bunch of changes: tests for player, accounting for whether the king is in check</msg>
+</logentry>
+<logentry
+   revision="3136">
+<author>pibe2</author>
+<date>2016-02-03T05:14:15.380584Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/.project</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment1.0/.settings</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/pibe2/Assignment1.0/bin</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/bin/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/bin/ChessPiece.class</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/bin/ClassicChess.class</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/bin/King.class</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/bin/Knight.class</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/bin/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/bin/PiecesMoveCorrectly.class</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/bin/Player.class</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/bin/Queen.class</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/bin/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/ChessPiece.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/ClassicChess.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/King.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/Knight.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/PiecesMoveCorrectly.java</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment1.0/src/Player.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment1.0/src/Rook.java</path>
+</paths>
+<msg>first commit
+</msg>
+</logentry>
+<logentry
+   revision="2009">
+<author>pibe2</author>
+<date>2016-01-28T22:00:17.779572Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/pibe2/Assignment0/.project</path>
+<path
+   action="D"
+   kind="file">/pibe2/Assignment0/.pydevproject</path>
+</paths>
+<msg>deleted some dot files from submissions</msg>
+</logentry>
+<logentry
+   revision="2006">
+<author>pibe2</author>
+<date>2016-01-28T21:56:31.554683Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/pibe2/Assignment0</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/.project</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/.pydevproject</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/bigmariochangedir_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/bigmariochangedir_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/bigmariojump_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/bigmariojump_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/bigmariorest_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/bigmariorest_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/bigmariowalk1_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/bigmariowalk1_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/bigmariowalk2_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/bigmariowalk2_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/bigmariowalk3_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/bigmariowalk3_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/cleared_scaled_mario11bg.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/coin.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/dirtblock.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/furballwalk1.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/furballwalk2.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/mario1_1.py</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/questblock.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/questblock_spent.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/smallmariochangedir_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/smallmariochangedir_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/smallmariojump_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/smallmariojump_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/smallmariorest_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/smallmariorest_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/smallmariowalk1_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/smallmariowalk1_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/smallmariowalk2_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/smallmariowalk2_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/smallmariowalk3_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/smallmariowalk3_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/trans_blank.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/turtleshell_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/turtleshell_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/turtlewalk1_left.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/turtlewalk1_right.png</path>
+<path
+   kind="file"
+   action="A">/pibe2/Assignment0/turtlewalk2_left.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/turtlewalk2_right.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/whiteorangered_flower.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/yellowgreen_mushroom.png</path>
+<path
+   action="A"
+   kind="file">/pibe2/Assignment0/yellowred_mushroom.png</path>
+</paths>
+<msg>"submitting Assignment0"
+</msg>
+</logentry>
+<logentry
+   revision="1502">
+<author>pibe2</author>
+<date>2016-01-28T06:49:45.509648Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/pibe2/grocery</path>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/pibe2/grocery"
+   copyfrom-rev="1501">/pibe2/shopping</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="1497">
+<author>pibe2</author>
+<date>2016-01-28T06:45:02.855869Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/pibe2/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="1496">
+<author>pibe2</author>
+<date>2016-01-28T06:43:41.197822Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="1488">
+<author>pibe2</author>
+<date>2016-01-28T06:39:45.083375Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="1485">
+<author>pibe2</author>
+<date>2016-01-28T06:37:24.424662Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="1482">
+<author>pibe2</author>
+<date>2016-01-28T06:35:22.933623Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/pibe2/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="1474">
+<author>pibe2</author>
+<date>2016-01-28T06:29:34.992850Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="1470">
+<author>pibe2</author>
+<date>2016-01-28T06:25:23.525768Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/pibe2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="1461">
+<author>pibe2</author>
+<date>2016-01-28T06:12:13.597071Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/pibe2/grocery</path>
+<path
+   action="A"
+   kind="file">/pibe2/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/pibe2/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="129">
+<author>root</author>
+<date>2016-01-21T17:21:40.542944Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/pibe2</path>
+</paths>
+<msg>created directory pibe2</msg>
+</logentry>
+</log>

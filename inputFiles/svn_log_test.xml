@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+
+    <logentry
+            revision="0">
+        <author>pibe0</author>
+        <date>2016-03-09T13:05:02.867323Z</date>
+        <paths>
+            <path
+                    action="M"
+                    kind="file">/pibe2/shopping/list0.txt</path>
+
+            <path
+                    action="M"
+                    kind="file">/pibe2/shopping/list1.txt</path>
+
+            <path
+                    action="M"
+                    kind="file">/pibe2/shopping/list2.txt</path>
+        </paths>
+        <msg>message0</msg>
+    </logentry>
+
+
+    <logentry
+            revision="1">
+        <author>pibe1</author>
+        <date>2016-03-09T13:01:02.867323Z</date>
+        <paths>
+            <path
+                    action="M"
+                    kind="file">/pibe2/shopping/list2.txt</path>
+        </paths>
+        <msg>message1</msg>
+    </logentry>
+
+    <logentry
+            revision="2">
+        <author>pibe2</author>
+        <date>2016-01-28T06:49:45.509648Z</date>
+        <paths>
+            <path
+                    kind="dir"
+                    action="D">/pibe2/grocery</path>
+            <path
+                    action="A"
+                    kind="dir"
+                    copyfrom-path="/pibe2/grocery"
+                    copyfrom-rev="1501">/pibe2/shopping</path>
+        </paths>
+        <msg>message2</msg>
+    </logentry>
+
+</log>
+
